@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="58" started-at="2018-12-29T20:12:07Z" finished-at="2018-12-29T20:12:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="58" started-at="2018-12-29T20:12:07Z" finished-at="2018-12-29T20:12:07Z">
+      <class name="com.learnmaven.test.FirstMavenTestCase">
+        <test-method status="PASS" signature="A()[pri:0, instance:com.learnmaven.test.FirstMavenTestCase@1810399e]" name="A" duration-ms="11" started-at="2018-12-29T20:12:07Z" finished-at="2018-12-29T20:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method status="PASS" signature="B()[pri:0, instance:com.learnmaven.test.FirstMavenTestCase@1810399e]" name="B" duration-ms="2" started-at="2018-12-29T20:12:07Z" finished-at="2018-12-29T20:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+        <test-method status="PASS" signature="C()[pri:0, instance:com.learnmaven.test.FirstMavenTestCase@1810399e]" name="C" duration-ms="2" started-at="2018-12-29T20:12:07Z" finished-at="2018-12-29T20:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C -->
+        <test-method status="PASS" signature="D()[pri:0, instance:com.learnmaven.test.FirstMavenTestCase@1810399e]" name="D" duration-ms="1" started-at="2018-12-29T20:12:07Z" finished-at="2018-12-29T20:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- D -->
+      </class> <!-- com.learnmaven.test.FirstMavenTestCase -->
+      <class name="com.learnmaven.test.SecondMavenTestCase">
+        <test-method status="PASS" signature="E()[pri:0, instance:com.learnmaven.test.SecondMavenTestCase@32d992b2]" name="E" duration-ms="1" started-at="2018-12-29T20:12:07Z" finished-at="2018-12-29T20:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- E -->
+        <test-method status="PASS" signature="F()[pri:0, instance:com.learnmaven.test.SecondMavenTestCase@32d992b2]" name="F" duration-ms="2" started-at="2018-12-29T20:12:07Z" finished-at="2018-12-29T20:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- F -->
+        <test-method status="PASS" signature="G()[pri:0, instance:com.learnmaven.test.SecondMavenTestCase@32d992b2]" name="G" duration-ms="2" started-at="2018-12-29T20:12:07Z" finished-at="2018-12-29T20:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- G -->
+        <test-method status="PASS" signature="H()[pri:0, instance:com.learnmaven.test.SecondMavenTestCase@32d992b2]" name="H" duration-ms="1" started-at="2018-12-29T20:12:07Z" finished-at="2018-12-29T20:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- H -->
+      </class> <!-- com.learnmaven.test.SecondMavenTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
